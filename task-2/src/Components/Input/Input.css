@@ -1,0 +1,23 @@
+.inputRegion{
+    display: flex;
+    justify-content: space-between;
+}
+.inp1{
+    width: 63%;
+    height: 35px;
+}
+.inp2{
+    width: 20%;
+    height: 35px;
+}
+.inp3{
+    width: 10%;
+    height: 41px;
+}
+.inp{
+    border: 1px solid black;
+}
+.inp::placeholder{
+    padding: 10px;
+    color: black;
+}
